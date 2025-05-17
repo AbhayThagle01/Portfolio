@@ -114,7 +114,7 @@ export const experiences = [
         company_name: "Protonshub",
         icon: protonshub,
         iconBg: "#fbc3bc",
-        date: "Dec 2024 - Feb 2024",
+        date: "Dec 2023 - Feb 2024",
         points: [
             "Acquired hands-on experience in React.js, Node.js, and SQL by completing structured assignments provided by the Learning & Development (L&D) team, strengthening both frontend and backend development skills.",
             "Built mini machine learning projects such as a Sugar Detection system and a Movie Recommendation Engine, applying key ML techniques like classification and collaborative filtering to solve real-world problems.",
